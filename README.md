@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **open source** projects
 - 🤔 I’m looking for help with **Kubernetes**
-- 💬 Ask me about **Java, Python, Backend Technologies**
+- 💬 Ask me about **Java, Python, Frontend Technologies**
 - 🔍 Actively seeking **Full Stack Developer** opportunities
 - 📚 Passionate about **AI**, **Blockchain**, and **Software Development**
 - 🛠️ Experienced in **Java**, **Python**, **ReactJS**, and **Spring Boot**
