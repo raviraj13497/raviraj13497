@@ -23,7 +23,7 @@
 ## 📄 Resume
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17ueND39spFzWA1zPPz_xMj_K0sMw76a_/view?usp=sharing)
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-raj-b4a518191/)
