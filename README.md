@@ -77,4 +77,4 @@ I'm open to collaboration on open-source projects and innovative ideas. Feel fre
 ---
 
 *"Striving to make a meaningful impact in the world of software development."*
-Have a Good Day!
+*Have a Good Day!*
