@@ -4,7 +4,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/raviraj13497/count.svg" /> <br>
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=raviraj13497&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="raviraj13497" width=49% height=100%/>
+<!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=raviraj13497&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="raviraj13497" width=49% height=100%/> -->
 </p>
 
 ## 🚀 About Me
