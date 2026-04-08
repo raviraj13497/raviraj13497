@@ -1,80 +1,124 @@
-# Hi there! 👋 I'm Ravi Raj
+# Ravi Raj — Backend Engineer | SDE
 
-<h2></h2>
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/raviraj13497/count.svg" /> <br>
-<!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=raviraj13497&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="raviraj13497" width=49% height=100%/> -->
+  <img src="https://profile-counter.glitch.me/raviraj13497/count.svg" /> 
 </p>
 
-## 🚀 About Me
-- 🎓 **B.Tech in Computer Science Engineering** graduate
-- 💻 **Full Stack Developer** with expertise in **MERN Stack**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-- 👯 I’m looking to collaborate on **open source** projects
-- 🤔 I’m looking for help with **Kubernetes**
-- 💬 Ask me about **Java, Python, Frontend Technologies**
-- 🔍 Actively seeking **Full Stack Developer** opportunities
-- 📚 Passionate about **AI**, **Blockchain**, and **Software Development**
-- 🛠️ Experienced in **Java**, **Python**, **ReactJS**, and **Spring Boot**
-- 🌱 Currently revising and deep-diving into **MERN Stack** concepts
-- 📈 Enthusiast in **Trading & Investing**, **Finance**, and **Cricket**
+---
 
-## 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17ueND39spFzWA1zPPz_xMj_K0sMw76a_/view?usp=sharing)
+## 🧠 Who Am I
 
-![Coding](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611nvqlperownwf2oese80gd9ngo6i0f2xiguqj6eny&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+```text
+Backend Engineer focused on building scalable systems, APIs, and production-grade software.
+Strong foundation in problem solving, system design, and performance engineering.
+```
 
-## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-raj-b4a518191/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/im_raviraj3202)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raviraj13497@gmail.com)
+- 💼 Backend Engineer with **1+ year of experience**
+- ⚙️ Working with **Golang & Python** in production systems
+- 🧪 Experience as **SDET (Automation + Performance Testing)**
+- 📈 Focused on **scalability, clean architecture, and reliability**
+- 🎯 Targeting **SDE-1 roles in top product-based companies**
 
-## 🧰 Tech Stack
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+---
+
+## 🔥 What I Do
+
+- 🚀 Build **high-performance backend services** using Go & Python  
+- 🧩 Design **REST APIs & business logic systems**  
+- ⚡ Work on **system-level features (AISM engine, automation workflows)**  
+- 🧪 Develop **automation frameworks (Selenium + Python)**  
+- 📊 Perform **performance testing (JMeter, concurrency testing)**  
+- 🧠 Practice **DSA + System Design daily**  
+
+---
+
+## 🏗️ Current Focus
+
+- 📚 Mastering **Data Structures & Algorithms (LeetCode + Striver Sheet)**
+- ⚡ Backend Development with **FastAPI & Golang**
+- 🧱 Building scalable systems (Microservices mindset)
+- 🧠 Preparing for **FAANG-level interviews**
+
+---
+
+## 💼 Experience Snapshot
+
+```text
+• Backend Development (Golang)
+  - Working on AISM engine (ticketing system)
+  - Implementing automation workflows & backend logic
+
+• Software Quality Engineering (Python + Selenium)
+  - Built automation frameworks
+  - Improved testing efficiency & coverage
+
+• Performance Testing
+  - JMeter (Concurrency Thread Group)
+  - Load testing up to 100 users
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### ⚙️ Backend & APIs
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST-API-black?style=for-the-badge)
 
-### Databases
+---
+
+### 🧪 Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+---
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Cloud
+---
+
+### ⚡ Dev & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Others
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+---
 
 ## 📊 GitHub Stats
+
 ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviraj13497&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=raviraj13497&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj13497&layout=compact&theme=radical)
 
-![Coder](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-## 🌐 Let's Collaborate
-I'm open to collaboration on open-source projects and innovative ideas. Feel free to reach out!
 ---
 
-*"Striving to make a meaningful impact in the world of software development."*
-- *Have a Good Day!*
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ravi-raj-b4a518191/  
+- 🐦 Twitter: https://x.com/im_raviraj3202  
+- 📧 Email: raviraj13497@gmail.com  
+
+---
+
+## 🤝 Let’s Build Something Big
+
+```text
+Open to Backend Engineer / SDE roles globally 🌍
+Interested in building scalable systems, startups, and impactful products.
+```
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that scale.  
+> Write code that lasts.  
+> Think like an engineer, not just a coder.
